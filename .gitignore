@@ -1,0 +1,36 @@
+# File gốc để trên OneDrive, không đưa lên repo
+*.dwg
+*.dwl
+*.dwl2
+*.bak
+*.rvt
+*.rfa
+*.rte
+*.pdf
+*.jpg
+*.jpeg
+*.png
+*.heic
+*.mp4
+*.zip
+*.rar
+*.7z
+*.mpp
+*.xer
+
+# Hệ thống / tạm
+.DS_Store
+Thumbs.db
+desktop.ini
+~$*
+*.tmp
+__pycache__/
+*.pyc
+.venv/
+bin/
+obj/
+
+# Bí mật
+.env
+*.key
+*secret*
