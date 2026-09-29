@@ -3,6 +3,11 @@
 Repo này là "trí nhớ" của công ty cho Claude: hồ sơ tóm tắt từng dự án, nhật ký quyết định, mẫu biểu và công cụ.
 File gốc (bản vẽ, Revit, BOQ, hợp đồng, ảnh) **không** lưu ở đây mà nằm trên **OneDrive**.
 
+## Thư mục gốc hồ sơ trên OneDrive
+- Trên máy chủ dự án: `D:\1-TRUONG QUANG THONG\OneDrive\TRANLAM\01_DUAN`
+- Mỗi dự án là một thư mục con trong thư mục này; đường dẫn cụ thể ghi ở mục 6 của `HO-SO-DU-AN.md`.
+- Claude Code trên **máy** đọc thẳng đường dẫn này. Claude trên **cloud** không truy cập được ổ `D:` — phải qua connector Microsoft 365 (OneDrive) hoặc file được đưa lên repo.
+
 ## Ngôn ngữ và phong cách
 - Luôn trả lời bằng **tiếng Việt**, văn phong chuyên nghiệp, có cấu trúc, đi thẳng vào vấn đề.
 - Đơn vị: mm cho kích thước cấu kiện, m cho cao độ và chiều dài tuyến, m³ / m² / tấn cho khối lượng.

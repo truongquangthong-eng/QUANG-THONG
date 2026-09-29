@@ -1,6 +1,7 @@
 # Danh sách dự án
 
 Cập nhật lần cuối: 2026-09-29
+Thư mục gốc hồ sơ (OneDrive, trên máy): `D:\1-TRUONG QUANG THONG\OneDrive\TRANLAM\01_DUAN`
 
 | Mã | Tên dự án | Chủ đầu tư | Loại công trình | Địa điểm | Giai đoạn | Trạng thái | Hồ sơ |
 |---|---|---|---|---|---|---|---|

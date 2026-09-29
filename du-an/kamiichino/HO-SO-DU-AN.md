@@ -58,7 +58,7 @@
 ## 6. Đường dẫn hồ sơ trên OneDrive
 | Loại | Đường dẫn |
 |---|---|
-| Thư mục gốc dự án | _(chưa có)_ |
+| Thư mục gốc dự án | `D:\1-TRUONG QUANG THONG\OneDrive\TRANLAM\01_DUAN\<tên thư mục dự án>` _(chưa xác nhận tên thư mục con)_ |
 | Hợp đồng | _(chưa có)_ |
 | Bản vẽ CAD / DXF | _(chưa có)_ |
 | Mô hình Revit | _(chưa có)_ |
